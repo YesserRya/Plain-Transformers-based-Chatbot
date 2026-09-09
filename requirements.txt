@@ -1,0 +1,11 @@
+# Python 3.10 or 3.11; Keras 2 compatibility for the original architectures.
+tensorflow==2.15.1
+numpy==1.26.4
+pandas==2.2.3
+scikit-learn==1.5.2
+matplotlib==3.9.2
+jupyterlab==4.2.5
+joblib==1.4.2
+tensorflow-datasets==4.9.4
+streamlit==1.39.0
+tensorflow-metadata==1.15.0
